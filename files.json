@@ -1,0 +1,13 @@
+{
+    "courses":[{
+        "name":"aws ",
+        "Catagory":"cloud",
+        "price":21000
+    }, 
+{
+    "name":"google ",
+    "Catagory":"oracle",
+    "price":2200
+
+}]
+}
